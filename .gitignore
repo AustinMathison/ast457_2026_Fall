@@ -11,3 +11,12 @@ __pycache__/
 
 # instructor-facing context, not for the public repo
 CLAUDE.md
+
+# editor/scratch backups - never commit these
+*.bak
+*.bak-*
+*.orig
+*~
+
+# local lecture media (video clips for offline playback; students get the link on the slide)
+lecture/**/media/
