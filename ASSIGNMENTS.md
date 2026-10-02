@@ -26,7 +26,7 @@ Last updated: 2026-09-24.
 | 10 | Machine-learning classification and imbalance | Thu Nov 12 | Wed Nov 18 (tentative) | |
 | 11 | Neural networks to foundation-model embeddings | Thu Nov 19 | **Wed Dec 2** (fall-break exception) | |
 
-Lab defenses: one per student over the semester, drawn at random. You will be told in class.
+Lab defenses: one per student over the semester (a lab or the midterm), drawn at random. No separate midterm or final defenses. You will be told in class.
 
 ## Quizzes
 
@@ -36,7 +36,7 @@ Short, written, closed-everything, at the start of class, roughly every other we
 |---|---|---|
 | 1 | Tue Sep 8 | done; TA-proctored (GN traveling). +5 extra credit for El-Badry colloquium notes, due Noon Tue Sep 15 |
 | 2 | Tue Sep 22 | done; Days 5-8 (estimators, Cramér-Rao, MLE, χ², model comparison) |
-| 3 | Tue Oct 20 (tentative) | after the midterm defenses; Bayes and MCMC (Days 12-14) |
+| 3 | Tue Oct 20 (tentative) | after the midterm; Bayes and MCMC (Days 12-14) |
 | 4 | Tue Nov 3 | TA-proctored (GN on Zoom) |
 | 5 | Thu Nov 12 (tentative) | |
 | 6 | Tue Dec 1 (tentative) | |
@@ -47,14 +47,12 @@ Short, written, closed-everything, at the start of class, roughly every other we
 |---|---|
 | Midterm take-home posted | Thu Oct 8 |
 | Midterm take-home due | Wed Oct 14, Noon |
-| Midterm defenses (viva) | Oct 19-23 |
 | Capstone topic chosen with GN | by Tue Oct 20 |
 | Capstone notebook and recorded video due | Mon Dec 7, Noon |
 | Capstone lightning talks, first ten | Thu Dec 3, in class |
 | Capstone lightning talks, remaining ten | Tue Dec 8, in class |
 | Final take-home posted | Wed Dec 9 |
 | Final take-home due | Tue Dec 15, Noon |
-| Final defenses (viva) | Dec 15-17 |
 
 ## Other dates
 
