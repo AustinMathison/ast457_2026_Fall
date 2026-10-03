@@ -18,7 +18,7 @@ Last updated: 2026-09-24.
 | 03 | MLE on transit data | Thu Sep 17 | Wed Sep 23 | closed |
 | 04 | Regression: OLS, GLS, ODR vs a generative model | Thu Sep 24 | Wed Sep 30 | **open** (assigned Thu Sep 24). +5 extra credit for Ward colloquium notes, due Noon Tue Sep 29 |
 | review | Regression review test (in class, your own notebook, talking allowed; counts as one lab) | Tue Sep 29 | Wed Sep 30 | in class Sep 29; `lecture/06/review_test_sep29.ipynb` |
-| 05 | MCMC: a binary-star radial-velocity fit | Thu Oct 1 | Wed Oct 7 | |
+| 05 | MCMC: a binary-star radial-velocity fit | Sat Oct 3 | **Fri Oct 9** | extended: it reached GitHub on Oct 3, not Oct 1 |
 | — | no lab the week of Oct 8 (midterm) | | | |
 | 07 | Time series and Gaussian-process regression | Thu Oct 22 | Wed Oct 28 (tentative) | |
 | 08 | Hierarchical Bayes and probabilistic graphical models | Thu Oct 29 | Wed Nov 4 (tentative) | |
