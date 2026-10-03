@@ -630,3 +630,18 @@ the verified URL is the tarball and the filename inside it is named below.
 - **Source:** Charbonneau et al. 2000, ApJ 529, L45 (arXiv:astro-ph/9911436), Fig. 1; ar5iv assets/fig1.png, fetched 2026-09-23.
 - **License:** arXiv distribution licence; single cited figure, non-commercial course use.
 - **Use:** Day 10, Iben Lecture slide (replaces the speaker portrait). Informs: the transit he co-discovered, also the Day 8 / red-noise planet.
+
+## elbadry2023_gaiabh1_rv.png
+- **Source:** El-Badry et al. 2023, MNRAS 518, 1057 (arXiv:2209.06833), Fig. 2 (`gaia_bh1_rvfig.pdf` in the arXiv source), rendered at 200 dpi and downsampled to 1400 px, fetched 2026-09-24.
+- **License:** CC BY 4.0 (arXiv abstract page).
+- **Use:** Day 12, Lab 05 slide (replaces the astrometric-orbit figure). Informs: an eccentric single-lined RV orbit with posterior draws, the fit Lab 05 asks for.
+
+## venkatraman2025_fig1_pgm.png
+- **Source:** Venkatraman et al. 2026, AJ 172, 223 (arXiv:2510.20778), Fig. 1, from the arXiv source (figure1paper_revew2.pdf, rendered at 200 dpi, trimmed, 1400 px), fetched 2026-09-24.
+- **License:** CC BY 4.0 (arXiv abstract page).
+- **Use:** Day 12, time delays to H0 slide (the guest lecturer's own work). Informs: the levels of inference, simulated lenses to per-lens posteriors to population.
+
+## rxj1131_hubble_heic1702d_labelled.png
+- **Source:** rxj1131_hubble_heic1702d.png (ESA/Hubble, NASA, Suyu et al.; CC BY 4.0) with image labels A-D and lens galaxy G added 2026-09-24. Label positions matched to Suyu et al. 2013 (arXiv:1208.6010) Fig. 1, same orientation (north up, east left).
+- **License:** CC BY 4.0 (derivative; labels added).
+- **Use:** Day 12, RX J1131-1231 slide.
